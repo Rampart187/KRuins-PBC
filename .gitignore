@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+KR_keywords.json
+data/*.json
+!data/prompt_presets.json

@@ -1,0 +1,12 @@
+[project]
+name="kruins-pbc"
+version="0.1.0"
+description="KRuins Prompt Building Companion for ComfyUI"
+requires-python=">=3.10"
+dependencies=[]
+
+[tool.comfy]
+PublisherId="rampart187"
+DisplayName="KRuins PBC"
+Icon=""
+includes=["js"]
