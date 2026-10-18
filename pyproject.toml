@@ -5,6 +5,9 @@ description="KRuins Prompt Building Companion for ComfyUI"
 requires-python=">=3.10"
 dependencies=[]
 
+[project.urls]
+Repository="https://github.com/Rampart187/KRuins-PBC"
+
 [tool.comfy]
 PublisherId="rampart187"
 DisplayName="KRuins PBC"
